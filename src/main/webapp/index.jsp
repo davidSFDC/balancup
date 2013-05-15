@@ -7,6 +7,7 @@
   <!--
   **************************************
 JRM: Seguimos probando
+Hola hola
   **************************************
   -->
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">

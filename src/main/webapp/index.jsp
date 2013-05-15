@@ -14,7 +14,7 @@
   <!--
   IMPORTANT:
   This is Heroku specific styling. Remove to customize.
-  Testing Github
+  Testing Github 2
   -->
   <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet">
   <style type="text/css">

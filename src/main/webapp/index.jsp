@@ -4,7 +4,11 @@
 <head>
   <meta charset="utf-8">
   <title>Embedded Jetty Template</title>
-
+  <!--
+  **************************************
+JRM: Seguimos probando
+  **************************************
+  -->
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -15,6 +19,7 @@
   IMPORTANT:
   This is Heroku specific styling. Remove to customize.
   Testing Github 2
+  
   -->
   <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet">
   <style type="text/css">
